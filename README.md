@@ -2,7 +2,8 @@
 Developed by CX-W Thunder
 
 ## Instalation
-1. Copy 
+1. Copy the functions folder and description.hpp into your mission folder.
+2. **Boom** done, no go to 
 
 
 ## Use
