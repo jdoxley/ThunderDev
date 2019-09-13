@@ -1,0 +1,18 @@
+
+{
+    "Aircraft":[
+        "laat_mk3",
+        "RD501_LAAT_cargo",
+        "RD501_Arc170",
+        "laat_mk3_blueKrayt",
+        "laat_mk3_redKrayt",
+        "laat_mk3_rangerEnforcer",
+        "laat_mk3_redMedic"
+    ],
+    "Ground":[
+        "RD501_WardenMob",
+        "RD501_Rep_Arty",
+        "RD501_Rep_MLRS",
+        "FAT_MRAP"
+    ]
+}
