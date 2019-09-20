@@ -1,5 +1,5 @@
 # ThunderDev
-_Developed by:_ **CX-W Thunder** For use by the 501st Legion
+_Developed by:_ **CX-W Thunder** For use by the 501st Legion Mission Builder C-Shop
 
 ## Instalation
 1. Copy the functions folder and description.hpp into your mission folder.
