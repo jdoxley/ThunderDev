@@ -3,7 +3,7 @@ _Developed by:_ **CX-W Thunder**
 For use by the 501st Legion Mission Builder C-Shop
 
 ## Instalation
-1. Copy the functions folder and description.ext into your mission folder.
+1. Extract the contents of [ThunderDev.zip](https://github.com/jdoxley/ThunderDev/releases/tag/v1.0.0) into the mission folder
 2. **Boom** done, now go to [here](https://github.com/jdoxley/ThunderDev/blob/master/README.md#use) to learn how to use my script.
 
 
