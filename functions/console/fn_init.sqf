@@ -21,4 +21,4 @@ _Object addAction["-------------------",{}];
 
 }forEach pads;
 _Object addAction["-------------------",{}];
-_Object addAction["<t color='#008000'>Spawn",{_vic = createVehicle [selection,getMarkerPos [pad,true]];_vic setDir markerDir pad;_y =pads find pad;_u = pads_display select _y; ["Spawned "+selection+" on "+_u] call ACE_common_fnc_displayText}]
+_Object addAction["<t color='#008000'>Spawn",{_vic = createVehicle [selection,getMarkerPos [pad,true]];_vic setDir markerDir pad;_y =pads find pad;_u = pads_display select _y;_o = getText (configFile >> "CfgVehicles" >> typeOf _vic >> "displayName") ;["Spawned "+_o+" on "+_u] call ACE_common_fnc_displayText}]
