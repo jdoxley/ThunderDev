@@ -6,7 +6,7 @@ _vics = [["laat_mk3","<t color='#00FF00'>LAAT MK3</t>"],
 ["laat_mk3_blueKrayt","<t color='#00FF00'>LAAT MK3 Blue Krayt</t>"],
 ["laat_mk3_rangerEnforcer","<t color='#00FF00'>LAAT MK3 Ranger Enforcer</t>"],
 ["RD501_LAAT_MK3_Doors","<t color='#00FF00'>LAAT MK3 Doors</t>"],
-["arc180","<t color='#00FF00'>ARC-170</t>"],
+["RD501_Arc170","<t color='#00FF00'>ARC-170</t>"],
 ["RD501_LAAT_MK3_Doors_ARC","<t color='#00FF00'>LAAT MK3 Doors ARC</t>"],
 ["RD501_LAAT_MK3_Doors_SpecOps","<t color='#00FF00'>LAAT MK3 Doors SpecOps</t>"],
 ["laat_mk3_blackblueKrayt","<t color='#00FF00'>LAAT MK3 Stealth Blue Krayt</t>"],
@@ -16,21 +16,6 @@ _vics = [["laat_mk3","<t color='#00FF00'>LAAT MK3</t>"],
 ["vwing_heavy","<t color='#00FF00'>V-Wing</t>"],
 ["super_ywing","<t color='#00FF00'>Y-Wing</t>"]
 ];
-
-{
-_Object addAction[_x select 1,{selection=_this select 3 select 0 select 0;[_this select 3 select 1] call TG_fnc_init},[_x,_Object]]
-
-
-}forEach _vics;
-
-
-// _Object addAction["LAAT MK.3",{selection="laat_mk3";[_this select 3 call TG_fnc_init]},_Object];
-// _Object addAction["LAAT C",{selection="RD501_LAAT_cargo";[_this select 3 call TG_fnc_init]},_Object];
-// _Object addAction["ARC-170",{selection="RD501_Arc170";[_this select 3 call TG_fnc_init]},_Object];
-// _Object addAction["LAAT MK.3 Blue Krayt",{selection="laat_mk3_blueKrayt";[_this select 3 call TG_fnc_init]},_Object];
-// _Object addAction["LAAT MK.3 Red Krayt",{selection="laat_mk3_redKrayt";[_this select 3 call TG_fnc_init]},_Object];
-// _Object addAction["LAAT MK.3 Ranger Enforcer",{selection="laat_mk3_rangerEnforcer";[_this select 3 call TG_fnc_init]},_Object];
-// _Object addAction["LAAT MK.3 MedEvac",{selection="laat_mk3_redMedic";[_this select 3 call TG_fnc_init]},_Object];
-
+{_Object addAction[_x select 1,{selection=_this select 3 select 0 select 0;[_this select 3 select 1] call TG_fnc_init},[_x,_Object]]}forEach _vics;
 _Object addAction["-------------------",{}];
 _Object addAction ["Return",{[_this select 3] call TG_fnc_init},_Object]
