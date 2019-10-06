@@ -38,6 +38,8 @@
         "RD50_resupply_box_small_medical":"Republic Squad Resupply (Medical)",
         "Mortar":{
             "ACE_box_82mm_Mo_HE":"HE Box",
+            "ACE_box_82mm_Mo_Smoke":"Smoke Box",
+            "ACE_box_82mm_Mo_Illum":"Illumination Box",
             "B_Mortar_01_F":"Mk.VI Mortar"
         }
     }
