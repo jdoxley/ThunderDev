@@ -1,18 +1,36 @@
 
 {
-    "Aircraft":[
-        "laat_mk3",
-        "RD501_LAAT_cargo",
-        "RD501_Arc170",
-        "laat_mk3_blueKrayt",
-        "laat_mk3_redKrayt",
-        "laat_mk3_rangerEnforcer",
-        "laat_mk3_redMedic"
-    ],
-    "Ground":[
-        "RD501_WardenMob",
-        "RD501_Rep_Arty",
-        "RD501_Rep_MLRS",
-        "FAT_MRAP"
-    ]
+    "Aircraft":{
+        "LAATS":{
+            "RD501_LAAT_Mk3":"LAAT/I MK.III",
+            "RD501_LAAT_blue_krayt":"LAAT/I MK.III - ('Blue Krayt')",
+            "RD501_LAAT_red_krayt":"LAAT/I MK.III - ('Red Krayt')",
+            "RD501_LAAT_medic_krayt":"LAAT/I MK.III - ('Medic Krayt')",
+            "RD501_LAAT_ranger_encforcer":"LAAT/I MK.III - ('Ranger Enforcer')",
+            "RD501_LAAT_Mk4":"LAAT/I MkIV",
+            "RD501_LAAT_blue":"LAAT/I MkIV - ('Blue')",
+            "RD501_LAAT_muunilinst":"LAAT/I MkIV - ('Muunilinst')",
+            "RD501_LAAT_spec_ops":"LAAT/I MkIV - ('Spec Ops')",
+            "RD501_LAAT_vtol":"VTOL LAAT Mk.II",
+            "RD501_LAAT_stealth_red_krayt":"LAAT/I MK.III - ('Stealth Red Krayt')",
+            "RD501_LAAT_stealth_blue_krayt":"LAAT/I MK.III - ('Stealth Blue Krayt')",
+            "RD501_LAAT_stealth_white_krayt":"LAAT/I MK.III - ('Stealth White Krayt')"
+        },
+        "RD501_ARC_170_MKII":"ARC-180B",
+        "RD501_v_wing_MKII":"V-Wing Mk.II",
+        "RD501_Y_wing_MkII":"Y-Wing Mk.II"
+        
+    },
+    "Ground":{
+        "RD501_warden_tank_mobile":"Warden Utility Tank(Black) Mk.II",
+        "RD501_heavy_ordinance_tank_republic":"H.O.T. (Republic)",
+        "RD501_rocket_ordinance_tank_republic":"R.O.T. (Republic)",
+        "RD501_fast_infanty_transport_republic":"Republic Fast Infantry Transport",
+        "RD501_bantha_501st_MkI":"Bantha Mk.I",
+        "Saber":{
+            "RD501_saber_republic_super_saber_MkII":"Super Saber Mk.II (Republic)",
+            "RD501_saber_republic_saber_MkII":"Saber Mk.II (Republic)",
+            "RD501_saber_republic_command_saber_MkII":"Saber (Command) Mk.II (Republic)"
+        }
+}
 }
