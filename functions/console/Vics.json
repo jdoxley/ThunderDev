@@ -32,5 +32,9 @@
             "RD501_saber_republic_saber_MkII":"Saber Mk.II (Republic)",
             "RD501_saber_republic_command_saber_MkII":"Saber (Command) Mk.II (Republic)"
         }
-}
+    },
+    "Items":{
+        "RD501_resupply_box_small_ammo":"Republic Squad Resupply (Ammo)",
+        "RD50_resupply_box_small_medical":"Republic Squad Resupply (Medical)"
+    }
 }
