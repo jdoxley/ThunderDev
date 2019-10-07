@@ -5,7 +5,7 @@ class TG
 	{
 		file="functions\console";
 		class main{};
-		class selectAir{};
+		class menu{};
 		class selectItem{};
 		class selectGround{};
 		class clear{};

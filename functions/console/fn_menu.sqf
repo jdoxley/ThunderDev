@@ -1,6 +1,6 @@
-params["_Object"];
+params["_Object","_type"];
 removeAllActions _Object;
-_test =+ [json,"Aircraft"] call MF_Json_Get;
+_test =+ [json,_type] call MF_Json_Get;
 _test deleteAt 0;
 _test = _test select 0;
 {
