@@ -1,10 +1,11 @@
 # ThunderDev
 _Developed by:_ **CX-W Thunder**  
 For use by the 501st Legion Mission Builder C-Shop  
+[JSON Parser for sqf credit](https://forums.bohemia.net/forums/topic/162724-json-parser-in-and-for-sqf/)
 **Made For the newest version of the 501st AUX Mod**
 
 ## Instalation
-1. Extract the contents of [ThunderDev.zip](https://github.com/jdoxley/ThunderDev/releases/tag/v1.0.0) into the mission folder
+1. Extract the contents of [ThunderDev.zip](https://github.com/jdoxley/ThunderDev/releases) into the mission folder
 2. **Boom** done, now go to [here](https://github.com/jdoxley/ThunderDev/blob/master/README.md#use) to learn how to use my script.
 
 
