@@ -16,7 +16,7 @@ _Object addAction["-------------------",{}];
 	_temp = _temp joinString "";
 	_pad set [0,_temp];
 	_pad = _pad joinString " ";
-	if (_x isEqualTo pad) then {_Object addAction["<t color='#008000'>"+_pad,{pad=_this select 3},_x,1.5,true,false];} else {_Object addAction[_pad,{pad=_this select 3 select 0;[_this select 3 select 1] call TG_fnc_init },[_x,_Object],1.5,true,false];};
+	if (_x isEqualTo pad) then {_Object addAction["<t color='#008000'>"+_pad,{pad=_this select 3},_x,1.5,true,false];} else {_Object addAction[_pad,{pad=_this select 3 select 0;[_this select 3 select 1] call TG_fnc_main },[_x,_Object],1.5,true,false];};
 	pads_display set [_forEachIndex,_pad];
 }forEach pads;
 _Object addAction["-------------------",{}];
