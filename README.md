@@ -1,6 +1,7 @@
 # ThunderDev
 _Developed by:_ **CX-W Thunder**  
-For use by the 501st Legion Mission Builder C-Shop
+For use by the 501st Legion Mission Builder C-Shop  
+**Made For the newest version of the 501st AUX Mod**
 
 ## Instalation
 1. Extract the contents of [ThunderDev.zip](https://github.com/jdoxley/ThunderDev/releases/tag/v1.0.0) into the mission folder
