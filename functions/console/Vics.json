@@ -44,9 +44,9 @@
         }
     },
     "Platoons":{
-        "1st Platoon":"1st Platoon",
-        "2nd Platoon":"2nd Platoon",
-        "3rd Platoon":"3rd Platoon",
-        "4th Platoon":"4th Platoon"
+        "_1st":"1st Platoon",
+        "_2nd":"2nd Platoon",
+        "_3rd":"3rd Platoon",
+        "_4th":"4th Platoon"
     }
 }
