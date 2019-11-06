@@ -7,7 +7,7 @@ import ntpath
 import sys
 import argparse
 
-# excluded_files = ['@AresModAchillesExpansion/addons/modules_f_ares/module_header.inc.sqf', '@AresModAchillesExpansion/addons/modules_f_ares/module_footer.inc.sqf']
+excluded_files = []
 
 def validKeyWordAfterCode(content, index):
     keyWords = ["for", "do", "count", "each", "forEach", "else", "and", "not", "isEqualTo", "in", "call", "spawn", "execVM", "catch", "param", "select", "apply"];
