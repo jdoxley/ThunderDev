@@ -12,6 +12,6 @@ class TG
 		class clearInit{};
 		class rInit{};
 		class subMenu{};
-
+		class spawn{};
 	}
 }
