@@ -38,5 +38,5 @@ jobs:
     - script: python tools/config_style_checker.py
       displayName: 'Config style checker'
 
-    - script: sqflint -d functions/
+    - script: sqflint -d Mission/
       displayName: 'SQFLint'
