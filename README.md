@@ -6,7 +6,7 @@ For use by the 501st Legion Mission Builder C-Shop
 **Made For the newest version of the 501st AUX Mod**
 
 ## Instalation
-1. Extract the contents of [ThunderDev.zip](https://github.com/jdoxley/ThunderDev/releases) into the mission folder
+1. Extract the contents of [Mission.zip](https://github.com/jdoxley/ThunderDev/releases) into the mission folder
 2. **Boom** done, now go to [here](https://github.com/jdoxley/ThunderDev/blob/master/README.md#use) to learn how to use my script.
 
 
