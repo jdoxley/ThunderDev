@@ -4,7 +4,7 @@ _rawJson = loadFile "functions\console\Vics.json";
 json = _rawJson call MF_Json_Parse;
 platoon="";
 pads=_pads;
-pads_display=+_pads;
+pads_display=+_pads
 {
 	_pad = _x splitString "_";
 	_temp = _pad select 0;
