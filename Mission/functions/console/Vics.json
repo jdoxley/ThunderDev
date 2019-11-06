@@ -2,19 +2,17 @@
 {
     "Aircraft":{
         "LAATS":{
+            "RD501_laat_501st_cxc":"LAAT/I MK.III - ('CX-C')",
+            "RD501_laat_501st_cxx":"LAAT/I MK.III - ('CX-X')",
+            "RD501_laat_501st_cxp":"LAAT/I MK.III - ('CX-P')",
+            "RD501_laat_501st_cxs":"LAAT/I MK.III - ('CX-S')",
+            "RD501_laat_501st_cx":"LAAT/I MK.III - ('CX')",
             "RD501_LAAT_Mk3":"LAAT/I MK.III",
-            "RD501_LAAT_blue_krayt":"LAAT/I MK.III - ('Blue Krayt')",
-            "RD501_LAAT_red_krayt":"LAAT/I MK.III - ('Red Krayt')",
-            "RD501_LAAT_medic_krayt":"LAAT/I MK.III - ('Medic Krayt')",
-            "RD501_LAAT_ranger_encforcer":"LAAT/I MK.III - ('Ranger Enforcer')",
             "RD501_LAAT_Mk4":"LAAT/I MkIV",
             "RD501_LAAT_blue":"LAAT/I MkIV - ('Blue')",
             "RD501_LAAT_muunilinst":"LAAT/I MkIV - ('Muunilinst')",
             "RD501_LAAT_spec_ops":"LAAT/I MkIV - ('Spec Ops')",
-            "RD501_LAAT_vtol":"VTOL LAAT Mk.II",
-            "RD501_LAAT_stealth_red_krayt":"LAAT/I MK.III - ('Stealth Red Krayt')",
-            "RD501_LAAT_stealth_blue_krayt":"LAAT/I MK.III - ('Stealth Blue Krayt')",
-            "RD501_LAAT_stealth_white_krayt":"LAAT/I MK.III - ('Stealth White Krayt')"
+            "RD501_LAAT_vtol":"VTOL LAAT Mk.II"
         },
         "RD501_ARC_170_MKII":"ARC-180B",
         "RD501_v_wing_MKII":"V-Wing Mk.II",
@@ -42,5 +40,12 @@
             "ACE_box_82mm_Mo_Illum":"Illumination Box",
             "B_Mortar_01_F":"Mk.VI Mortar"
         }
+    },
+    "Platoons":{
+        "_1st":"1st Platoon",
+        "_2nd":"2nd Platoon",
+        "_3rd":"3rd Platoon",
+        "_4th":"4th Platoon",
+        "":"Clear"
     }
 }

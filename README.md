@@ -1,5 +1,6 @@
 # ThunderDev
 _Developed by:_ **CX-W Thunder**  
+[![Build Status](https://dev.azure.com/jdoxley6/jdoxley6/_apis/build/status/jdoxley.ThunderDev?branchName=master)](https://dev.azure.com/jdoxley6/jdoxley6/_build/latest?definitionId=1&branchName=master)  
 For use by the 501st Legion Mission Builder C-Shop  
 [JSON Parser for sqf credit](https://forums.bohemia.net/forums/topic/162724-json-parser-in-and-for-sqf/)  
 **Made For the newest version of the 501st AUX Mod**
