@@ -21,12 +21,5 @@ _Object addAction["-------------------",{}];
 	
 }forEach pads;
 _Object addAction["-------------------",{}];
-if(platoon isEqualTo "") then{
-	_Object addAction["Select Platoon",{[_this select 3,"Platoons","platoon"] call TG_fnc_menu},_Object];
-} else{
-	_Object addAction["<t color = '#3366FF'>"+([json,"Platoons."+platoon] call MF_Json_Get),{[_this select 3,"Platoons","platoon"] call TG_fnc_menu},_Object];
-};
-
-
 _Object addAction["<t color='#008000'>Spawn",{call TG_fnc_spawn}];
 _Object addAction["<t color='#d4af37'>Clear Pad",{[_this select 3] call TG_fnc_clearInit},_Object,1.5,true,false];

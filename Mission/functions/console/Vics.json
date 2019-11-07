@@ -40,12 +40,5 @@
             "ACE_box_82mm_Mo_Illum":"Illumination Box",
             "B_Mortar_01_F":"Mk.VI Mortar"
         }
-    },
-    "Platoons":{
-        "_1st":"1st Platoon",
-        "_2nd":"2nd Platoon",
-        "_3rd":"3rd Platoon",
-        "_4th":"4th Platoon",
-        "":"Clear"
     }
 }
